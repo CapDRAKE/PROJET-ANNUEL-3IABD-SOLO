@@ -32,7 +32,7 @@ def predict():
         results =[ [labels[i],predictions[1][index][i]] for index,i in enumerate(np.argmax(predictions[1], axis=1)) ]
         return jsonify(results)
     return '''
-    <h1>Projet annuel sans CSS oups...</h1>
+    <h1>Projet annuel</h1>
     <form method="post" enctype="multipart/form-data">
     <input type="file" id="multiFiles" name="files[]" multiple="multiple">
     <input type="submit">
