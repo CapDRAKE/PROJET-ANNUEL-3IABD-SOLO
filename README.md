@@ -1,7 +1,7 @@
 
-# Projet ANNUEL RATTRAPAGE
+# Projet ANNUEL
 
-Rattrapage du projet annuel 3IABD année 2021-2022
+Projet annuel 3IABD année 2021-2022
 
 ## Tutoriel
 
